@@ -1,5 +1,5 @@
 # -------------------------------------------------------------
-# Script written for ESG Bond Framework
+# Script written for Performing Semantic Search on docs
 # Written by H. Honari  
 # -------------------------------------------------------------
 
