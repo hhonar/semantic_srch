@@ -15,7 +15,7 @@ from sentence_transformers import SentenceTransformer, util
 import io
 
 
-
+# This script assumes that using OCR, the text contents are extracted
 
 # Define the keys to generate the hierarchical dict
 __docname__ = 'SAMPLEDOCUMENT'
